@@ -21,6 +21,11 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [atmaCup振り返り回でLTをしました（word2vecを利用した埋め込み分析と SWEMを用いた比較実験）](https://www.takapy.work/entry/2021/02/27/122300)
+- [【書籍メモ】分析者のためのデータ解釈学入門を読んだ](https://www.takapy.work/entry/2021/01/17/201348)
+- [2021年の目標と行動指針](https://www.takapy.work/entry/2021/01/01/232255)
+- [分析コンペをチームで戦うための技術](https://www.takapy.work/entry/2020/12/22/225715)
+- [家族としてレベルアップするために行っていること](https://www.takapy.work/entry/2020/12/17/083704)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
