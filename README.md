@@ -17,8 +17,7 @@
 - 🌱 I’m currently learning MLOps, Recommendation, NLP, AWS
 - 👀 Detailed Profile（Japanese） → TBD
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takapy0210&show_icons=true&theme=merko)
-
+![takapy's GitHub stats](https://github-readme-stats.vercel.app/api?username=takapy0210&show_icons=true&theme=merko)
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
