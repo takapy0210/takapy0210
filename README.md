@@ -1,6 +1,10 @@
 <!-- created https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm takapy | たかぱい
 
+🧑‍💻 **I’m currently working as a Machine Learning Engineer in Tokyo ([@Connehito inc.](https://connehito.com/))**  
+🌱 **I’m currently learning MLOps, Recommendation, NLP, AWS**  
+🔥 **Detailed Profile（Japanese） → TBD**
+
 <p align="left"> 
   <a href="https://github.com/takapy0210/takapy0210/">
     <img src="https://komarev.com/ghpvc/?username=takapy0210" alt="takapy0210" />
@@ -13,9 +17,18 @@
   </a>
 </p>
 
-- 🧑‍💻 I’m currently working as a Machine Learning Engineer in Tokyo ([@Connehito inc.](https://connehito.com/))
-- 🌱 I’m currently learning MLOps, Recommendation, NLP, AWS
-- 👀 Detailed Profile（Japanese） → TBD
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/OS-mac-informational?style=flat&logo=Apple&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visualstudioCode&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=zshell&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/Tools-slack-informational?style=flat&logo=slack&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=d0af4c)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=d0af4c)
+
 
 ![takapy's GitHub stats](https://github-readme-stats.vercel.app/api?username=takapy0210&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takapy0210&theme=onedark&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
