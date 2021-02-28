@@ -1,5 +1,5 @@
 <!-- created https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-# Hi 👋, I'm takapy | たかぱい
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm takapy | たかぱい
 
 <p align="left"> 
   <a href="https://github.com/takapy0210/takapy0210/">
@@ -17,7 +17,8 @@
 - 🌱 I’m currently learning MLOps, Recommendation, NLP, AWS
 - 👀 Detailed Profile（Japanese） → TBD
 
-![takapy's GitHub stats](https://github-readme-stats.vercel.app/api?username=takapy0210&show_icons=true&theme=merko)
+![takapy's GitHub stats](https://github-readme-stats.vercel.app/api?username=takapy0210&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takapy0210&theme=onedark&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,3 +39,9 @@
 - [LAPRAS](https://lapras.com/public/ATZDLYC)
 - [speakerdeck](https://speakerdeck.com/takapy)
 - [Podcast](https://github.com/shyaginuma/geek-engineer-future)
+
+## 📌 Extra Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takapy0210&repo=nlplot&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takapy0210&repo=takaggle&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takapy0210&repo=geek_blog&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
