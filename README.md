@@ -35,6 +35,7 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【言語処理100本ノック 2020】 6章をPythonで解いた](https://www.takapy.work/entry/2021/06/06/095512)
 - [atmaCup振り返り回でLTをしました（word2vecを利用した埋め込み分析と SWEMを用いた比較実験）](https://www.takapy.work/entry/2021/02/27/122300)
 - [【書籍メモ】分析者のためのデータ解釈学入門を読んだ](https://www.takapy.work/entry/2021/01/17/201348)
 - [2021年の目標と行動指針](https://www.takapy.work/entry/2021/01/01/232255)
@@ -44,7 +45,6 @@
 - [Data Engineering Study #1「DWH・BIツールのこれまでとこれから」 参加ログ](https://www.takapy.work/entry/2020/07/15/214419)
 - [ProbSpace「YouTube動画視聴回数予測コンペ」参加メモ 〜MLflow Trackingによる実験管理を添えて〜](https://www.takapy.work/entry/2020/07/05/125507)
 - [自然言語を簡単に可視化・分析できるライブラリ「nlplot」を公開しました](https://www.takapy.work/entry/2020/05/17/192947)
-- [PyPIへのアップロード時に「HTTPError: 400 Client Error: The description failed to render in the default format of reStructuredText.」が出る場合の対処方法](https://www.takapy.work/entry/2020/05/10/155856)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
