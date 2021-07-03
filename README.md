@@ -35,6 +35,7 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【言語処理100本ノック 2020】 8章をPythonで解いた（TensorFlowを使用）](https://www.takapy.work/entry/2021/07/03/125911)
 - [【言語処理100本ノック 2020】 7章をPythonで解いた](https://www.takapy.work/entry/2021/06/20/191606)
 - [【言語処理100本ノック 2020】 6章をPythonで解いた](https://www.takapy.work/entry/2021/06/06/095512)
 - [atmaCup振り返り回でLTをしました（word2vecを利用した埋め込み分析と SWEMを用いた比較実験）](https://www.takapy.work/entry/2021/02/27/122300)
@@ -44,7 +45,6 @@
 - [家族としてレベルアップするために行っていること](https://www.takapy.work/entry/2020/12/17/083704)
 - [レコメンデーションに用いられるMatrix Factorization（行列分解）をTensorFlow.kerasで実装してみる](https://www.takapy.work/entry/2020/12/10/090131)
 - [Data Engineering Study #1「DWH・BIツールのこれまでとこれから」 参加ログ](https://www.takapy.work/entry/2020/07/15/214419)
-- [ProbSpace「YouTube動画視聴回数予測コンペ」参加メモ 〜MLflow Trackingによる実験管理を添えて〜](https://www.takapy.work/entry/2020/07/05/125507)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
