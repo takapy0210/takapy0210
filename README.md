@@ -35,6 +35,7 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Google ColabとVSCodeを用いた分析環境運用方法 〜kaggle Tipsを添えて〜](https://www.takapy.work/entry/2021/08/17/185047)
 - [PandasからBigQueryにデータを保存する際に「Resources exceeded during query execution: UDF out of memory. ..... columns is too large」エラーが出た時の対処方法](https://www.takapy.work/entry/2021/08/10/210236)
 - [【言語処理100本ノック 2020】 8章をPythonで解いた（TensorFlowを使用）](https://www.takapy.work/entry/2021/07/03/125911)
 - [【言語処理100本ノック 2020】 7章をPythonで解いた](https://www.takapy.work/entry/2021/06/20/191606)
@@ -44,7 +45,6 @@
 - [2021年の目標と行動指針](https://www.takapy.work/entry/2021/01/01/232255)
 - [分析コンペをチームで戦うための技術](https://www.takapy.work/entry/2020/12/22/225715)
 - [家族としてレベルアップするために行っていること](https://www.takapy.work/entry/2020/12/17/083704)
-- [レコメンデーションに用いられるMatrix Factorization（行列分解）をTensorFlow.kerasで実装してみる](https://www.takapy.work/entry/2020/12/10/090131)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
