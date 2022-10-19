@@ -35,6 +35,9 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Luigiを使って機械学習パイプラインを構築する3つのメリット](https://www.takapy.work/entry/2022/03/22/170413)
+- [M1 Macのdocker環境にテクニカル指標計算ライブラリ「TA-Lib」をインストールする方法](https://www.takapy.work/entry/2021/12/19/163441)
+- [TensorFlow × HuggingFace Transformers（TFBertModel）を用いたモデルの保存時に発生するエラーの回避方法](https://www.takapy.work/entry/2021/12/11/145751)
 - [Google ColabとVSCodeを用いた分析環境運用方法 〜kaggle Tipsを添えて〜](https://www.takapy.work/entry/2021/08/17/185047)
 - [PandasからBigQueryにデータを保存する際に「Resources exceeded during query execution: UDF out of memory. ..... columns is too large」エラーが出た時の対処方法](https://www.takapy.work/entry/2021/08/10/210236)
 - [【言語処理100本ノック 2020】 8章をPythonで解いた（TensorFlowを使用）](https://www.takapy.work/entry/2021/07/03/125911)
@@ -42,9 +45,6 @@
 - [【言語処理100本ノック 2020】 6章をPythonで解いた](https://www.takapy.work/entry/2021/06/06/095512)
 - [atmaCup振り返り回でLTをしました（word2vecを利用した埋め込み分析と SWEMを用いた比較実験）](https://www.takapy.work/entry/2021/02/27/122300)
 - [【書籍メモ】分析者のためのデータ解釈学入門を読んだ](https://www.takapy.work/entry/2021/01/17/201348)
-- [2021年の目標と行動指針](https://www.takapy.work/entry/2021/01/01/232255)
-- [分析コンペをチームで戦うための技術](https://www.takapy.work/entry/2020/12/22/225715)
-- [家族としてレベルアップするために行っていること](https://www.takapy.work/entry/2020/12/17/083704)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
