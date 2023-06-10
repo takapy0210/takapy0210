@@ -3,7 +3,7 @@
 
 🧑‍💻 **I’m currently working as a Machine Learning Engineer in Tokyo ([@Connehito inc.](https://connehito.com/))**  
 🌱 **I’m currently learning MLOps, Recommendation, NLP, AWS**  
-🔥 **Detailed Profile（Japanese） → TBD**
+🔥 **Detailed Profile（Japanese） → [About takapy](https://takapy.popsy.site/)**
 
 <p align="left"> 
   <a href="https://github.com/takapy0210/takapy0210/">
