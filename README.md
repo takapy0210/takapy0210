@@ -35,6 +35,7 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPIで特定エンドポイント（Path）のログを出力しない方法](https://www.takapy.work/entry/2023/07/31/181315)
 - [2022年の振り返り](https://www.takapy.work/entry/2022/12/19/015230)
 - [Luigiを使って機械学習パイプラインを構築する3つのメリット](https://www.takapy.work/entry/2022/03/22/170413)
 - [M1 Macのdocker環境にテクニカル指標計算ライブラリ「TA-Lib」をインストールする方法](https://www.takapy.work/entry/2021/12/19/163441)
@@ -44,7 +45,6 @@
 - [【言語処理100本ノック 2020】 8章をPythonで解いた（TensorFlowを使用）](https://www.takapy.work/entry/2021/07/03/125911)
 - [【言語処理100本ノック 2020】 7章をPythonで解いた](https://www.takapy.work/entry/2021/06/20/191606)
 - [【言語処理100本ノック 2020】 6章をPythonで解いた](https://www.takapy.work/entry/2021/06/06/095512)
-- [atmaCup振り返り回でLTをしました（word2vecを利用した埋め込み分析と SWEMを用いた比較実験）](https://www.takapy.work/entry/2021/02/27/122300)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
