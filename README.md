@@ -35,6 +35,7 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [予期的UXという概念がとてもしっくりきた話](https://www.takapy.work/entry/2023/12/17/082733)
 - [FastAPIで特定エンドポイント（Path）のログを出力しない方法](https://www.takapy.work/entry/2023/07/31/181315)
 - [2022年の振り返り](https://www.takapy.work/entry/2022/12/19/015230)
 - [Luigiを使って機械学習パイプラインを構築する3つのメリット](https://www.takapy.work/entry/2022/03/22/170413)
@@ -44,7 +45,6 @@
 - [PandasからBigQueryにデータを保存する際に「Resources exceeded during query execution: UDF out of memory. ..... columns is too large」エラーが出た時の対処方法](https://www.takapy.work/entry/2021/08/10/210236)
 - [【言語処理100本ノック 2020】 8章をPythonで解いた（TensorFlowを使用）](https://www.takapy.work/entry/2021/07/03/125911)
 - [【言語処理100本ノック 2020】 7章をPythonで解いた](https://www.takapy.work/entry/2021/06/20/191606)
-- [【言語処理100本ノック 2020】 6章をPythonで解いた](https://www.takapy.work/entry/2021/06/06/095512)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
