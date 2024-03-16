@@ -35,6 +35,7 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [pythonを使ってDynamoDBの複数テーブルから非同期でデータ取得してみる](https://www.takapy.work/entry/2024/03/16/203919)
 - [DataformをGoogle Cloud上から触ってみる（rawデータから集計テーブルを作るまで）](https://www.takapy.work/entry/2024/01/04/174321)
 - [予期的UXという概念がとてもしっくりきた話](https://www.takapy.work/entry/2023/12/17/082733)
 - [FastAPIで特定エンドポイント（Path）のログを出力しない方法](https://www.takapy.work/entry/2023/07/31/181315)
@@ -44,7 +45,6 @@
 - [TensorFlow × HuggingFace Transformers（TFBertModel）を用いたモデルの保存時に発生するエラーの回避方法](https://www.takapy.work/entry/2021/12/11/145751)
 - [Google ColabとVSCodeを用いた分析環境運用方法 〜kaggle Tipsを添えて〜](https://www.takapy.work/entry/2021/08/17/185047)
 - [PandasからBigQueryにデータを保存する際に「Resources exceeded during query execution: UDF out of memory. ..... columns is too large」エラーが出た時の対処方法](https://www.takapy.work/entry/2021/08/10/210236)
-- [【言語処理100本ノック 2020】 8章をPythonで解いた（TensorFlowを使用）](https://www.takapy.work/entry/2021/07/03/125911)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
