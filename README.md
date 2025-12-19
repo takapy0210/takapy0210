@@ -35,6 +35,7 @@
 
 ## 📝 Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [「お手隙でお願いします」の期待値について](https://www.takapy.work/entry/2025/12/19/094719)
 - [BigQuery remote MCP serverをClaudeから使っておすすめマンションを教えてもらう](https://www.takapy.work/entry/2025/12/15/122441)
 - [育休の振り返り](https://www.takapy.work/entry/2025/12/05/115737)
 - [2024年振り返り  〜PdM/データ基盤/ハーフマラソン/マンションダッシュボード/ソファなど〜](https://www.takapy.work/entry/2024/12/31/232110)
@@ -44,7 +45,6 @@
 - [FastAPIで特定エンドポイント（Path）のログを出力しない方法](https://www.takapy.work/entry/2023/07/31/181315)
 - [2022年の振り返り](https://www.takapy.work/entry/2022/12/19/015230)
 - [Luigiを使って機械学習パイプラインを構築する3つのメリット](https://www.takapy.work/entry/2022/03/22/170413)
-- [M1 Macのdocker環境にテクニカル指標計算ライブラリ「TA-Lib」をインストールする方法](https://www.takapy.work/entry/2021/12/19/163441)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Social Links
